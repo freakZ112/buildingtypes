@@ -362,7 +362,7 @@
 		"extensions": [
 			{
 				"id": 0,
-				"name": "1. Technischer Zug: Bergungsgruppe 2",
+				"name": "1. Technischer Zug: Fachgruppe Notversorgung/Notinstandsetzung",
 				"cost": 25e3,
 				"duration": 7
 			},
@@ -392,7 +392,7 @@
 			},
 			{
 				"id": 5,
-				"name": "2. Technischer Zug: Bergungsgruppe 2",
+				"name": "2. Technischer Zug: Fachgruppe Notversorgung/Notinstandsetzung",
 				"cost": 25e3,
 				"duration": 7
 			},
@@ -413,7 +413,19 @@
 				"name": "Fachgruppe Wasserschaden/Pumpen",
 				"cost": 2e5,
 				"duration": 7
-			}
+			},
+			{
+				"id": 9,
+				"name": "Fachgruppe Schwere Bergung",
+				"cost": 2e5,
+				"duration": 7
+			},			
+			{
+				"id": 10,
+				"name": "Fachgruppe Elektroversorgung",
+				"cost": 2e5,
+				"duration": 7
+			}				
 		]
 	},
 	{
