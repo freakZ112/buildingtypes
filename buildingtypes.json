@@ -362,58 +362,46 @@
 		"extensions": [
 			{
 				"id": 0,
-				"name": "1. Technischer Zug: Bergungsgruppe 2",
-				"cost": 25e3,
-				"duration": 7
-			},
-			{
-				"id": 1,
 				"name": "1. Technischer Zug: Zugtrupp",
 				"cost": 25e3,
 				"duration": 7
 			},
 			{
-				"id": 2,
+				"id": 1,
 				"name": "Fachgruppe Räumen",
 				"cost": 25e3,
 				"duration": 7
 			},
 			{
-				"id": 3,
+				"id": 2,
 				"name": "Fachgruppe Wassergefahren",
 				"cost": 5e5,
-				"duration": 7
-			},
-			{
-				"id": 4,
-				"name": "2. Technischer Zug - Grundvorraussetzungen",
-				"cost": 25e3,
 				"duration": 3
 			},
 			{
+				"id": 4,
+				"name": "Fachgruppe Ortung",
+				"cost": 45e4,
+				"duration": 5
+			},
+			{
 				"id": 5,
-				"name": "2. Technischer Zug: Bergungsgruppe 2",
-				"cost": 25e3,
+				"name": "Fachgruppe Wasserschaden/Pumpen",
+				"cost": 2e5,
 				"duration": 7
 			},
 			{
 				"id": 6,
-				"name": "2. Technischer Zug: Zugtrupp",
-				"cost": 25e3,
+				"name": "Fachgruppe Schwere Bergung",
+				"cost": 2e5,
 				"duration": 7
 			},
 			{
 				"id": 7,
-				"name": "Fachgruppe Ortung",
-				"cost": 45e4,
-				"duration": 7
-			},
-			{
-				"id": 8,
-				"name": "Fachgruppe Wasserschaden/Pumpen",
+				"name": "Fachgruppe Elektroversorgung",
 				"cost": 2e5,
 				"duration": 7
-			}
+			}			
 		]
 	},
 	{
