@@ -577,7 +577,7 @@
 	{
 		"id": 15,
 		"name": "Wasserrettung",
-		"class": ["wasserrettung"],
+		"class": ["wasserwacht"],
 		"class_alias": ["Wasserrettungswachen"],
 		"max_level": 5,
 		"extensions": []
